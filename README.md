@@ -1,2 +1,0 @@
-# campuslearn-webtechnologies
-campuslearn
